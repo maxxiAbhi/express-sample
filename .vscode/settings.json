@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c7bf6c36-57ba-49ac-bec3-a859dcdd338f/resourceGroups/First-Rg/providers/Microsoft.Web/sites/test-nodejs-app7",
+    "appService.deploySubpath": "."
+}
